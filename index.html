@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="header1" id="headerpart">
+                <form action="/search" method="get">
+                    <input class="botao" type="search" id="search" name="q" placeholder="search...">
+                    <button class="botao" type="submit">
+                        <img src="big-search-len.png" width="13px">
+                    </button>
+                </form>
+            </div>
+            <div class="header2" id="headerpart">
+                <select class="botao" id="filter">
+                    <option value="option1">genre</option>
+                    <option value="option2">romance</option>
+                    <option value="option3">drama</option>
+                    <option value="option4">terror</option>
+                </select>
+            </div>
+            <div class="header3" id="headerpart">
+                <div class="logo">
+                    <img id="logo" src="bluebell.png">
+                </div>
+
+            </div>
+            <div class="header4" id="headerpart"> 
+            </div>
+            <div class="header5" id="headerpart">
+                <label>
+                    <label class="texto1">hello, <b>guest</b>!</label>
+                    <button id="login" class="botao">login / signup</button>
+                </label>
+            </div>
+        </div>
+        <div class="content">
+            <div class="product-container" id="productContainer"></div>
+        </div>
+        <div class="footer">
+            <label class="texto1">@oprogramas 2024</label>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
