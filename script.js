@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 productDiv.classList.add('product');
 
                 const img = document.createElement('img');
-                img.src = `${product.id}.png`;
+                img.src = `book-covers/${product.id}.jpg`;
                 img.alt = product.title;
 
                 const productName = document.createElement('div');
