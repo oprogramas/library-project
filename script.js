@@ -1,3 +1,4 @@
+// =========== LIVROS =======
 document.addEventListener('DOMContentLoaded', function () {
     fetch('books.json')
         .then(response => response.json())
@@ -22,4 +23,21 @@ document.addEventListener('DOMContentLoaded', function () {
             });
         })
         .catch(error => console.error('Erro carregando livros:', error));
+});
+
+// ========= FILTRO DE GENERO ==========
+document.addEventListener('DOMContentLoaded', function() {
+    fetch('genres.json')
+        .then(response => response.json())
+        .then(data => {
+            const dropdown = document.getElementById("filter");
+
+            data.options.forEach(option => {
+                const opt = document.createElement("option");
+                opt.value = option.value;
+                opt.textContent = option.text;
+                dropdown.appendChild(opt);
+            });
+        })
+        .catch(error => console.error('Error fetching the JSON:', error));
 });

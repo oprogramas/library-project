@@ -353,11 +353,11 @@
     },
     {
       "id": 45,
-      "title": "To Kill a Mockingbird",
-      "author": "Harper Lee",
-      "year_of_release": 1960,
-      "genre": ["Fiction", "Classics"],
-      "synopsis": "A young girl grows up in the racially charged Depression-era South and learns about compassion and justice through her father's example."
+      "title": "The Giver",
+      "author": "Lois Lowry",
+      "year_of_release": 1993,
+      "genre": ["Fiction", "Dystopian", "Young Adult"],
+      "synopsis": "In a seemingly perfect community, a young boy named Jonas is chosen to inherit the memories of the world and learns the dark secrets behind his society."
     },
     {
       "id": 46,
