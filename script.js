@@ -44,7 +44,10 @@ document.addEventListener('DOMContentLoaded', function () {
     const searchInput = document.getElementById('search');
     searchInput.addEventListener('input', function () {
         const query = this.value.toLowerCase();
-        const filteredBooks = books.filter(book => book.title.toLowerCase().includes(query));
+        const filteredBooks = books.filter(book => 
+            book.title.toLowerCase().includes(query) || 
+            book.author.toLowerCase().includes(query)
+        );
         displayBooks(filteredBooks);
     });
 });
@@ -65,8 +68,13 @@ function displayBooks(books) {
         productName.classList.add('product-name');
         productName.textContent = product.title;
 
+        const productAuthor = document.createElement('div');
+        productAuthor.classList.add('product-author');
+        productAuthor.textContent = product.author;
+
         productDiv.appendChild(img);
         productDiv.appendChild(productName);
+        productDiv.appendChild(productAuthor);
         productContainer.appendChild(productDiv);
     });
 }
