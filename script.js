@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function () {
             // Add "Show All" option
             const showAllOption = document.createElement("option");
             showAllOption.value = "";
-            showAllOption.textContent = "Show All";
+            showAllOption.textContent = "filter by genre";
             dropdown.appendChild(showAllOption);
 
             data.options.forEach(option => {
