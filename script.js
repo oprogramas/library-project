@@ -39,6 +39,14 @@ document.addEventListener('DOMContentLoaded', function () {
             });
         })
         .catch(error => console.error('Error fetching the JSON:', error));
+
+    // Add event listener for search input
+    const searchInput = document.getElementById('search');
+    searchInput.addEventListener('input', function () {
+        const query = this.value.toLowerCase();
+        const filteredBooks = books.filter(book => book.title.toLowerCase().includes(query));
+        displayBooks(filteredBooks);
+    });
 });
 
 function displayBooks(books) {
