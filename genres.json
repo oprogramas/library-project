@@ -1,6 +1,5 @@
 {
     "options": [
-        {"value": "-", "text": "-"},
         {"value": "fiction", "text": "Fiction"},
         {"value": "classics", "text": "Classics"},
         {"value": "dystopian", "text": "Dystopian"},
