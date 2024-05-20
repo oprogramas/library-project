@@ -1,0 +1,403 @@
+[
+    {
+      "id": 1,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year_of_release": 1960,
+      "genre": ["Fiction", "Classics"],
+      "synopsis": "A young girl grows up in the racially charged Depression-era South and learns about compassion and justice through her father's example."
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "year_of_release": 1949,
+      "genre": ["Fiction", "Dystopian", "Classics"],
+      "synopsis": "A dystopian novel about a totalitarian regime that uses surveillance, censorship, and torture to control its citizens."
+    },
+    {
+      "id": 3,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "year_of_release": 1813,
+      "genre": ["Fiction", "Romance", "Classics"],
+      "synopsis": "A classic romantic comedy about the manners and matrimony in early 19th century England."
+    },
+    {
+      "id": 4,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year_of_release": 1925,
+      "genre": ["Fiction", "Classics"],
+      "synopsis": "A novel about the American dream and the disillusionment of the Jazz Age, centered around the mysterious millionaire Jay Gatsby."
+    },
+    {
+      "id": 5,
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "year_of_release": 1851,
+      "genre": ["Fiction", "Classics", "Adventure"],
+      "synopsis": "The narrative of Captain Ahab's obsessive quest to revenge himself on the whale that 'reaped' his leg."
+    },
+    {
+      "id": 6,
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "year_of_release": 1869,
+      "genre": ["Fiction", "Classics", "Historical"],
+      "synopsis": "An epic novel that intertwines the lives of private and public individuals during the time of the Napoleonic wars."
+    },
+    {
+      "id": 7,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "year_of_release": 1951,
+      "genre": ["Fiction", "Classics"],
+      "synopsis": "A story about the life of a cynical teenage boy who recently got expelled from his fourth school."
+    },
+    {
+      "id": 8,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "year_of_release": 1937,
+      "genre": ["Fiction", "Fantasy", "Adventure"],
+      "synopsis": "Bilbo Baggins, a hobbit, embarks on a journey with dwarves to reclaim a treasure guarded by the dragon Smaug."
+    },
+    {
+      "id": 9,
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "year_of_release": 1847,
+      "genre": ["Fiction", "Romance", "Classics"],
+      "synopsis": "An orphaned girl becomes a governess and falls in love with her employer, Mr. Rochester, who has a dark secret."
+    },
+    {
+      "id": 10,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "year_of_release": 1954,
+      "genre": ["Fiction", "Fantasy", "Adventure"],
+      "synopsis": "An epic fantasy trilogy about the quest to destroy a powerful ring and save Middle-earth."
+    },
+    {
+      "id": 11,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "year_of_release": 1988,
+      "genre": ["Fiction", "Fantasy", "Adventure"],
+      "synopsis": "A shepherd boy named Santiago travels from Spain to Egypt in search of a treasure, learning life lessons along the way."
+    },
+    {
+      "id": 12,
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "year_of_release": 1932,
+      "genre": ["Fiction", "Dystopian", "Classics"],
+      "synopsis": "A dystopian novel about a future society that achieves happiness through technological advancements and rigid social control."
+    },
+    {
+      "id": 13,
+      "title": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "year_of_release": 1939,
+      "genre": ["Fiction", "Classics", "Historical"],
+      "synopsis": "A story of the Joad family who are forced off their land during the Great Depression and travel to California seeking a better life."
+    },
+    {
+      "id": 14,
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "year_of_release": 1866,
+      "genre": ["Fiction", "Classics", "Psychological"],
+      "synopsis": "A psychological drama about a poor ex-student who murders a pawnbroker and wrestles with his conscience."
+    },
+    {
+      "id": 15,
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "year_of_release": 1847,
+      "genre": ["Fiction", "Romance", "Classics"],
+      "synopsis": "A tragic love story set on the Yorkshire moors between Heathcliff and Catherine Earnshaw."
+    },
+    {
+      "id": 16,
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "year_of_release": 1818,
+      "genre": ["Fiction", "Horror", "Classics"],
+      "synopsis": "A scientist creates a sentient creature in an unorthodox experiment, leading to tragic consequences."
+    },
+    {
+      "id": 17,
+      "title": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "year_of_release": 2003,
+      "genre": ["Fiction", "Drama", "Historical"],
+      "synopsis": "A story of friendship and redemption set against the backdrop of a changing Afghanistan."
+    },
+    {
+      "id": 18,
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "year_of_release": 1861,
+      "genre": ["Fiction", "Classics"],
+      "synopsis": "The life and growth of an orphan named Pip, and the people who shape his journey."
+    },
+    {
+      "id": 19,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "year_of_release": 1951,
+      "genre": ["Fiction", "Classics"],
+      "synopsis": "A story about the life of a cynical teenage boy who recently got expelled from his fourth school."
+    },
+    {
+      "id": 20,
+      "title": "Little Women",
+      "author": "Louisa May Alcott",
+      "year_of_release": 1868,
+      "genre": ["Fiction", "Classics", "Young Adult"],
+      "synopsis": "The lives and struggles of the four March sisters during the American Civil War."
+    },
+    {
+      "id": 21,
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "year_of_release": 1953,
+      "genre": ["Fiction", "Dystopian", "Science Fiction"],
+      "synopsis": "A future society where books are banned and 'firemen' burn any that are found."
+    },
+    {
+      "id": 22,
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "year_of_release": 1890,
+      "genre": ["Fiction", "Classics", "Gothic"],
+      "synopsis": "A young man sells his soul for eternal youth and beauty, leading to his moral decay."
+    },
+    {
+      "id": 23,
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "year_of_release": 2005,
+      "genre": ["Fiction", "Historical", "Young Adult"],
+      "synopsis": "A young girl in Nazi Germany finds solace by stealing books and sharing them with others."
+    },
+    {
+      "id": 24,
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "year_of_release": 1897,
+      "genre": ["Fiction", "Horror", "Classics"],
+      "synopsis": "A novel about the vampire Count Dracula's attempt to move from Transylvania to England."
+    },
+    {
+      "id": 25,
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "year_of_release": 2006,
+      "genre": ["Fiction", "Dystopian", "Adventure"],
+      "synopsis": "A post-apocalyptic novel about a father and son's journey through a desolate world."
+    },
+    {
+      "id": 26,
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel Garcia Marquez",
+      "year_of_release": 1967,
+      "genre": ["Fiction", "Classics", "Magical Realism"],
+      "synopsis": "The multi-generational story of the Buendia family in the town of Macondo."
+    },
+    {
+      "id": 27,
+      "title": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "year_of_release": 1985,
+      "genre": ["Fiction", "Dystopian", "Science Fiction"],
+      "synopsis": "A dystopian novel about a theocratic society where women are oppressed and used for reproduction."
+    },
+    {
+      "id": 28,
+      "title": "The Chronicles of Narnia",
+      "author": "C.S. Lewis",
+      "year_of_release": 1950,
+      "genre": ["Fiction", "Fantasy", "Young Adult"],
+      "synopsis": "A series of fantasy novels about the adventures of children in the magical land of Narnia."
+    },
+    {
+      "id": 29,
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "year_of_release": 1877,
+      "genre": ["Fiction", "Classics", "Romance"],
+      "synopsis": "A tragic love story between a married aristocrat and a young officer in imperial Russia."
+    },
+    {
+      "id": 30,
+      "title": "Catch-22",
+      "author": "Joseph Heller",
+      "year_of_release": 1961,
+      "genre": ["Fiction", "Classics", "War"],
+      "synopsis": "A satirical novel about the absurdities of war and bureaucracy, centered on a group of World War II bomber pilots."
+    },
+    {
+      "id": 31,
+      "title": "Gone with the Wind",
+      "author": "Margaret Mitchell",
+      "year_of_release": 1936,
+      "genre": ["Fiction", "Classics", "Historical"],
+      "synopsis": "A novel about the life of Scarlett O'Hara during the American Civil War and Reconstruction era."
+    },
+    {
+      "id": 32,
+      "title": "Slaughterhouse-Five",
+      "author": "Kurt Vonnegut",
+      "year_of_release": 1969,
+      "genre": ["Fiction", "Classics", "Science Fiction"],
+      "synopsis": "A novel about the experiences of a soldier who becomes 'unstuck in time' and witnesses the bombing of Dresden."
+    },
+    {
+      "id": 33,
+      "title": "Beloved",
+      "author": "Toni Morrison",
+      "year_of_release": 1987,
+      "genre": ["Fiction", "Historical", "Classics"],
+      "synopsis": "A novel about a former slave haunted by the ghost of her dead daughter."
+    },
+    {
+      "id": 34,
+      "title": "The Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "year_of_release": 1884,
+      "genre": ["Fiction", "Classics", "Adventure"],
+      "synopsis": "A young boy and a runaway slave travel down the Mississippi River on a raft."
+    },
+    {
+      "id": 35,
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "year_of_release": 1844,
+      "genre": ["Fiction", "Classics", "Adventure"],
+      "synopsis": "A story of betrayal, revenge, and redemption involving a young sailor falsely imprisoned."
+    },
+    {
+      "id": 36,
+      "title": "Memoirs of a Geisha",
+      "author": "Arthur Golden",
+      "year_of_release": 1997,
+      "genre": ["Fiction", "Historical"],
+      "synopsis": "A fictional account of a geisha's life in 20th century Japan."
+    },
+    {
+      "id": 37,
+      "title": "The Secret Garden",
+      "author": "Frances Hodgson Burnett",
+      "year_of_release": 1911,
+      "genre": ["Fiction", "Classics", "Children's"],
+      "synopsis": "A young orphan girl discovers a hidden, neglected garden and brings it back to life."
+    },
+    {
+      "id": 38,
+      "title": "The Metamorphosis",
+      "author": "Franz Kafka",
+      "year_of_release": 1915,
+      "genre": ["Fiction", "Classics", "Psychological"],
+      "synopsis": "A man wakes up to find himself transformed into a giant insect, leading to his alienation from society."
+    },
+    {
+      "id": 39,
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "year_of_release": 1862,
+      "genre": ["Fiction", "Classics", "Historical"],
+      "synopsis": "A novel about the struggles and redemption of an ex-convict, set against the backdrop of post-revolutionary France."
+    },
+    {
+      "id": 40,
+      "title": "Life of Pi",
+      "author": "Yann Martel",
+      "year_of_release": 2001,
+      "genre": ["Fiction", "Adventure", "Fantasy"],
+      "synopsis": "A young Indian boy survives a shipwreck and shares a lifeboat with a Bengal tiger."
+    },
+    {
+      "id": 41,
+      "title": "Rebecca",
+      "author": "Daphne du Maurier",
+      "year_of_release": 1938,
+      "genre": ["Fiction", "Classics", "Gothic"],
+      "synopsis": "A young woman marries a widower and is haunted by the memory of his first wife."
+    },
+    {
+      "id": 42,
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "year_of_release": 1859,
+      "genre": ["Fiction", "Classics", "Historical"],
+      "synopsis": "A novel set in London and Paris before and during the French Revolution, highlighting the lives of several characters."
+    },
+    {
+      "id": 43,
+      "title": "A Clockwork Orange",
+      "author": "Anthony Burgess",
+      "year_of_release": 1962,
+      "genre": ["Fiction", "Dystopian", "Science Fiction"],
+      "synopsis": "A dystopian novel about a teenage delinquent who undergoes an experimental form of aversion therapy."
+    },
+    {
+      "id": 44,
+      "title": "The Shining",
+      "author": "Stephen King",
+      "year_of_release": 1977,
+      "genre": ["Fiction", "Horror", "Thriller"],
+      "synopsis": "A family stays at an isolated hotel where the father descends into madness and supernatural forces are at play."
+    },
+    {
+      "id": 45,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year_of_release": 1960,
+      "genre": ["Fiction", "Classics"],
+      "synopsis": "A young girl grows up in the racially charged Depression-era South and learns about compassion and justice through her father's example."
+    },
+    {
+      "id": 46,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "year_of_release": 1997,
+      "genre": ["Fiction", "Fantasy", "Young Adult"],
+      "synopsis": "A young boy discovers he is a wizard and attends a magical school, where he makes friends and enemies."
+    },
+    {
+      "id": 47,
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "year_of_release": 2008,
+      "genre": ["Fiction", "Dystopian", "Young Adult"],
+      "synopsis": "A dystopian novel about a teenage girl who participates in a deadly televised competition."
+    },
+    {
+      "id": 48,
+      "title": "Ender's Game",
+      "author": "Orson Scott Card",
+      "year_of_release": 1985,
+      "genre": ["Fiction", "Science Fiction", "Young Adult"],
+      "synopsis": "A young boy is trained to become a military leader in a war against an alien species."
+    },
+    {
+      "id": 49,
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "year_of_release": 2003,
+      "genre": ["Fiction", "Thriller", "Mystery"],
+      "synopsis": "A symbologist and a cryptologist uncover a secret society and a conspiracy involving the Catholic Church."
+    },
+    {
+      "id": 50,
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "year_of_release": 2005,
+      "genre": ["Fiction", "Thriller", "Mystery"],
+      "synopsis": "A journalist and a hacker investigate the disappearance of a wealthy man's niece, uncovering dark family secrets."
+    }
+  ]
+  

@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    fetch('products.json')
+    fetch('books.json')
         .then(response => response.json())
         .then(data => {
             const productContainer = document.getElementById('productContainer');
@@ -9,12 +9,12 @@ document.addEventListener('DOMContentLoaded', function () {
                 productDiv.classList.add('product');
 
                 const img = document.createElement('img');
-                img.src = product.image;
-                img.alt = product.name;
+                img.src = `${product.id}.png`;
+                img.alt = product.title;
 
                 const productName = document.createElement('div');
                 productName.classList.add('product-name');
-                productName.textContent = product.name;
+                productName.textContent = product.title;
 
                 productDiv.appendChild(img);
                 productDiv.appendChild(productName);
