@@ -1,0 +1,22 @@
+{
+    "options": [
+        {"value": "-", "text": "-"},
+        {"value": "fiction", "text": "Fiction"},
+        {"value": "classics", "text": "Classics"},
+        {"value": "dystopian", "text": "Dystopian"},
+        {"value": "romance", "text": "Romance"},
+        {"value": "adventure", "text": "Adventure"},
+        {"value": "historical", "text": "Historical"},
+        {"value": "psychological", "text": "Psychological"},
+        {"value": "horror", "text": "Horror"},
+        {"value": "drama", "text": "Drama"},
+        {"value": "young-adult", "text": "Young Adult"},
+        {"value": "science-fiction", "text": "Science Fiction"},
+        {"value": "gothic", "text": "Gothic"},
+        {"value": "magical-realism", "text": "Magical Realism"},
+        {"value": "fantasy", "text": "Fantasy"},
+        {"value": "thriller", "text": "Thriller"},
+        {"value": "mystery", "text": "Mystery"},
+        {"value": "childrens", "text": "Children's"}
+    ]
+}
